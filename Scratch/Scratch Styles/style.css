@@ -1,0 +1,47 @@
+/* Name
+ Section (Best one)
+ file description */
+
+body {
+    color:linen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+p {
+    color:dimgray;
+    font-style: oblique;
+    font-size: 18px;
+
+}
+
+a {
+    color:firebrick;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: 20px;
+}
+
+li {
+
+font-weight: normal;
+}
+
+.bold { font-weight: bolder;}
+
+
+.justify {
+    text-align: justify;
+}
+
+
+
+
+
+
+
